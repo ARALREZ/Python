@@ -1,0 +1,13 @@
+a)
+liczba: 1 ilosc 84
+liczba: 2 ilosc 65
+liczba: 3 ilosc 92
+liczba: 4 ilosc 75
+liczba: 5 ilosc 104
+liczba: 6 ilosc 75
+liczba: 7 ilosc 95
+liczba: 8 ilosc 71
+liczba: 9 ilosc 81
+liczba: 10 ilosc 62
+liczba: 11 ilosc 102
+liczba: 12 ilosc 94

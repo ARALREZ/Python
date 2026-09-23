@@ -1,0 +1,23 @@
+a)
+504
+b)
+110
+c)
+Liczba napisów z samymi 0: 32
+Liczba napisów z samymi 1: 50
+d)
+ wyrazy: 2 jest: 43
+ wyrazy: 3 jest: 38
+ wyrazy: 4 jest: 37
+ wyrazy: 5 jest: 57
+ wyrazy: 6 jest: 53
+ wyrazy: 7 jest: 68
+ wyrazy: 8 jest: 78
+ wyrazy: 9 jest: 103
+ wyrazy: 10 jest: 83
+ wyrazy: 11 jest: 90
+ wyrazy: 12 jest: 86
+ wyrazy: 13 jest: 81
+ wyrazy: 14 jest: 68
+ wyrazy: 15 jest: 59
+ wyrazy: 16 jest: 56
