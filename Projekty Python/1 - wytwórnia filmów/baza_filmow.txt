@@ -1,0 +1,4 @@
+1|Jakub|Tomaszewski|19|Shrek,Czarownica,Faceci w czerni
+2|Janusz|Radziwi³|40|Potop
+3|Karolina|Mickiewicz|19|Czarownica,Iniemamocni
+4|Karol|Motyka|70|Szczêki
